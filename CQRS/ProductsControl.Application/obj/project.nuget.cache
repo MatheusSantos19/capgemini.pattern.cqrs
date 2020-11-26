@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uvz/I8po6pAQoSsnUE1WM0DNiNDspByCLmVmeL+rbIvKzSO+YWCpLKsJZnS2noh0NNKSR599ku/YDNzmY9YTjQ==",
+  "success": true,
+  "projectFilePath": "D:\\Desenvolvimento\\Accelerate dotNet\\CQRM\\ProductsControl.Application\\ProductsControl.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
